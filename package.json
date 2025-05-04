@@ -1,0 +1,22 @@
+{
+  "name": "s2y-query",
+  "version": "0.1.0",
+  "description": "A lightweight YouTube search query scraper for S2Y (regi_lpf's playlist migrator)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "youtube",
+    "search",
+    "scraper",
+    "playlist",
+    "s2y",
+    "regi_lpf"
+  ],
+  "author": "regi_lpf",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
