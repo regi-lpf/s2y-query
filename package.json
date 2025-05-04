@@ -1,6 +1,6 @@
 {
   "name": "@regi_lpf/s2y-query",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight YouTube search scraper without API key.",
   "main": "index.js",
   "scripts": {
